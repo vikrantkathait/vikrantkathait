@@ -1,6 +1,6 @@
-- 👋 Hi, I’m vikrant a cs student from amity university.
-- 👀 I’m interested in full stack web devlopment.
-- 🌱 I’m currently learning DSA.
+- 👋 Hi, I’m Vikrant a CS student from Amity University.
+- 👀 I’m interested in Full Stack Web Devlopment.
+- 🌱 I’m currently learning DS and Algorithms in C++.
 
 
 <!---
