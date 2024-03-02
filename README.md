@@ -1,4 +1,4 @@
--👋 Hi, I’m vikrant a cs student from amity university.
+- 👋 Hi, I’m vikrant a cs student from amity university.
 - 👀 I’m interested in full stack web devlopment.
 - 🌱 I’m currently learning DSA.
 
